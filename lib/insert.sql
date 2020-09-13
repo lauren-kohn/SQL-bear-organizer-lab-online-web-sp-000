@@ -6,10 +6,10 @@
 
 'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 10, "M", "brown", "relaxed", 1);'
 
-'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 2, "", "brown", "relaxed", 1 );'
+'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 2, "F", "brown", "relaxed", 1 );'
 
-'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch",);'
+'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 5, "M", "brown", "relaxed", 1);'
 
-'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", );'
+'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy",  11, "F", "brown", "relaxed", 1);'
 
-'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, NULL, NULL, NULL, NULL, 1);'
+'INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, NULL, NULL, "purple", NULL, 1);'
